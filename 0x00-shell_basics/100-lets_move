@@ -1,2 +1,2 @@
 #!/bin/bash
-mv *[[::Upper case::]] /tmp/u
+mv [[::Upper case::]]* /tmp/u
