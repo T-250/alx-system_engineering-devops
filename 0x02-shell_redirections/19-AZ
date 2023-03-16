@@ -1,2 +1,2 @@
 #!/bin/bash
-echo '[a-z]' | tr 'Ac' 'Ze'
+echo '^[a-z]' | tr 'Ac' 'Ze'
